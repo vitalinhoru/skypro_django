@@ -1,1 +1,1 @@
-# skypro_django
+Домашние задания курса Django от Skypro
